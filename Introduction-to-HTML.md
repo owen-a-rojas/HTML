@@ -198,7 +198,7 @@ HTML global attributes are attributes that can be used with any HTML element, re
 
 + ***id:*** Defines a unique identifier for an element.
 
-<```p id="important-paragraph">This is an important paragraph.</p>```
+```p id="important-paragraph">This is an important paragraph.</p>```
 
 + ***style:*** Applies inline CSS styles to an element.
 
