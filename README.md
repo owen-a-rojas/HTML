@@ -11,3 +11,4 @@
 + What are HTML attributes?
 + What are HTML global attributes?
 
+<img src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png" width="300px />
